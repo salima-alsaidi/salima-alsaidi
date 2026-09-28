@@ -1,16 +1,34 @@
-## Hi there 👋
+# Salima Hamed Alsaaidi
 
-<!--
-**salima-alsaidi/salima-alsaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information & Communications Engineering graduate with a strong interest in backend development, networking, and emerging technologies. I am focused on Java, Spring Boot, SQL, and practical software solutions.
 
-Here are some ideas to get you started:
+## About Me
+I am a graduate of the University of Al-Buraimi with a background in Information and Communications Engineering. My interests include backend development, networking, system design, and continuous learning in modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+- Spring Boot
+- SQL
+- MySQL / SQL Server
+- REST APIs
+- OOP
+- Git & GitHub
+- Networking fundamentals
+
+## Projects
+- Java exercises and problem-solving tasks
+- OOP Java tasks
+- Logistics CRUD system
+- Network lab tools
+- Academic and research projects
+
+## Contact
+- Email: salimaalsaidi2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/salima-alsaidi
+- GitHub: https://github.com/salima-alsaidi
+- CV: #
+
+## Highlights
+- Academic research and conference participation
+- IoT and AI competition experience
+- Strong interest in backend systems and networking
